@@ -2,3 +2,5 @@
 Pega e armazena em planilha informações de determinado site
 > Experiencia
 > - Interessante que, por exemplo, no site da pichau eu não consegui fazer. Pode ser pq a class da tag tem multiplas classes, também não consegui fazer da amazon e era da mesma forma
+
+Tutorial seguido: https://www.youtube.com/watch?v=UVfNeNoybOs&ab_channel=DevAprender%7CJhonatandeSouza
